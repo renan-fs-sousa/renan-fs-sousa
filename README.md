@@ -8,7 +8,7 @@ Eu sou Renan Sousa, e sou Desenvolvedor de Sistemas.
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/-React-007396?style=flat-square&logo=react)
